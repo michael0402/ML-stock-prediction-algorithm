@@ -1,4 +1,4 @@
-# [How to Predict Stock Prices in Python using TensorFlow 2 and Keras](https://www.thepythoncode.com/article/stock-price-prediction-in-python-using-tensorflow-2-and-keras)
+# [Predict Stock Prices in Python using TensorFlow 2 and Keras](https://www.thepythoncode.com/article/stock-price-prediction-in-python-using-tensorflow-2-and-keras)
 
 To run this:
 - `pip3 install -r requirements.txt`
